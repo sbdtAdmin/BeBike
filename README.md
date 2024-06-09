@@ -32,7 +32,7 @@ This project is a bicycle repair management system built using Flask for the bac
 
 3. Install the required packages:
     ```sh
-    pip install Flask
+    pip install -r r.txt
     ```
 
 ## Running the Application
