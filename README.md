@@ -21,7 +21,7 @@ This project is a bicycle repair management system built using Flask for the bac
 1. Clone the repository:
     ```sh
     git clone https://github.com/sbdtAdmin/BeBike.git
-    cd bike-repair-management
+    cd BeBike
     ```
 
 2. Create a virtual environment and activate it:
